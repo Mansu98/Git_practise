@@ -1,0 +1,8 @@
+how to add in stage area
+git add filename
+how to commit a file 
+git commit filename -m "title"
+how to view the status
+git status
+how how to push the file in gihub
+git push -u origin master
